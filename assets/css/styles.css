@@ -36,6 +36,8 @@ a {
 body {
   font-size: 14px;
   font-family: "JetBrains Mono", monospace !important;
+  background: url(../images/space.jpg) no-repeat center;
+  background-size: cover;
 }
 
 img {
@@ -49,8 +51,6 @@ img {
   height: 100vh;
   overflow: hidden;
   width: 100%;
-  background: url(../images/space.jpg) no-repeat center;
-  background-size: cover;
   position: relative;
 }
 #form .decor-el {
